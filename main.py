@@ -1,2 +1,2 @@
-my_string = "Hello, world!"
-print(my_string)
+
+print("Olá, mundo!")
